@@ -1,0 +1,301 @@
+subjectID, guessNum, correct, hadUnique, trialType, inspectionTime
+James, 1, true, true, Color Only, 125
+James, 2, true, true, Color Only, 125
+James, 3, true, false, Color Only, 125
+James, 4, true, true, Color Only, 125
+James, 5, true, true, Color Only, 125
+James, 6, true, true, Color Only, 125
+James, 7, true, false, Color Only, 125
+James, 8, true, false, Color Only, 125
+James, 9, true, false, Color Only, 125
+James, 10, true, true, Color Only, 125
+James, 1, true, false, Color Only, 125
+James, 2, true, true, Color Only, 125
+James, 3, true, true, Color Only, 125
+James, 4, true, false, Color Only, 125
+James, 5, true, true, Color Only, 125
+James, 6, true, false, Color Only, 125
+James, 7, true, true, Color Only, 125
+James, 8, true, false, Color Only, 125
+James, 9, true, false, Color Only, 125
+James, 10, true, false, Color Only, 125
+James, 1, true, true, Color Only, 125
+James, 2, true, false, Color Only, 125
+James, 3, true, true, Color Only, 125
+James, 4, true, false, Color Only, 125
+James, 5, true, true, Color Only, 125
+James, 6, true, false, Color Only, 125
+James, 7, true, true, Color Only, 125
+James, 8, true, false, Color Only, 125
+James, 9, true, true, Color Only, 125
+James, 10, true, false, Color Only, 125
+James, 1, true, false, Color Only, 125
+James, 2, true, true, Color Only, 125
+James, 3, true, true, Color Only, 125
+James, 4, true, false, Color Only, 125
+James, 5, true, false, Color Only, 125
+James, 6, true, false, Color Only, 125
+James, 7, true, false, Color Only, 125
+James, 8, true, false, Color Only, 125
+James, 9, true, false, Color Only, 125
+James, 10, true, true, Color Only, 125
+James, 1, true, true, Color Only, 125
+James, 2, true, false, Color Only, 125
+James, 3, true, false, Color Only, 125
+James, 4, true, false, Color Only, 125
+James, 5, true, false, Color Only, 125
+James, 6, true, true, Color Only, 125
+James, 7, true, true, Color Only, 125
+James, 8, true, true, Color Only, 125
+James, 9, true, true, Color Only, 125
+James, 10, true, false, Color Only, 125
+James, 1, true, true, Shape Only, 125
+James, 2, true, true, Shape Only, 125
+James, 3, true, false, Shape Only, 125
+James, 4, true, false, Shape Only, 125
+James, 5, true, true, Shape Only, 125
+James, 6, true, true, Shape Only, 125
+James, 7, true, false, Shape Only, 125
+James, 8, true, true, Shape Only, 125
+James, 9, true, false, Shape Only, 125
+James, 10, true, true, Shape Only, 125
+James, 1, true, true, Shape Only, 125
+James, 2, true, false, Shape Only, 125
+James, 3, true, false, Shape Only, 125
+James, 4, true, false, Shape Only, 125
+James, 5, true, true, Shape Only, 125
+James, 6, true, false, Shape Only, 125
+James, 7, true, false, Shape Only, 125
+James, 8, true, false, Shape Only, 125
+James, 9, true, true, Shape Only, 125
+James, 10, true, true, Shape Only, 125
+James, 1, true, true, Shape Only, 125
+James, 2, true, false, Shape Only, 125
+James, 3, true, true, Shape Only, 125
+James, 4, true, true, Shape Only, 125
+James, 5, true, false, Shape Only, 125
+James, 6, true, true, Shape Only, 125
+James, 7, true, false, Shape Only, 125
+James, 8, true, false, Shape Only, 125
+James, 9, true, false, Shape Only, 125
+James, 10, true, true, Shape Only, 125
+James, 1, true, true, Shape Only, 125
+James, 2, false, true, Shape Only, 125
+James, 3, true, true, Shape Only, 150
+James, 4, true, false, Shape Only, 150
+James, 5, true, false, Shape Only, 150
+James, 6, true, true, Shape Only, 150
+James, 7, true, false, Shape Only, 150
+James, 8, true, true, Shape Only, 150
+James, 9, true, true, Shape Only, 150
+James, 10, false, true, Shape Only, 150
+James, 1, true, false, Shape Only, 125
+James, 2, true, false, Shape Only, 125
+James, 3, true, true, Shape Only, 125
+James, 4, true, false, Shape Only, 125
+James, 5, true, false, Shape Only, 125
+James, 6, true, true, Shape Only, 125
+James, 7, true, true, Shape Only, 125
+James, 8, true, false, Shape Only, 125
+James, 9, true, false, Shape Only, 125
+James, 10, false, true, Shape Only, 125
+James, 1, true, true, Combo, 125
+James, 2, true, false, Combo, 125
+James, 3, true, false, Combo, 125
+James, 4, true, true, Combo, 125
+James, 5, true, true, Combo, 125
+James, 6, true, false, Combo, 125
+James, 7, true, false, Combo, 125
+James, 8, true, true, Combo, 125
+James, 9, true, true, Combo, 125
+James, 10, true, true, Combo, 125
+James, 1, true, false, Combo, 125
+James, 2, false, true, Combo, 125
+James, 3, true, false, Combo, 150
+James, 4, true, false, Combo, 150
+James, 5, true, true, Combo, 150
+James, 6, true, false, Combo, 150
+James, 7, true, true, Combo, 150
+James, 8, true, false, Combo, 150
+James, 9, true, true, Combo, 150
+James, 10, true, false, Combo, 150
+James, 1, false, true, Combo, 125
+James, 2, true, false, Combo, 150
+James, 3, true, true, Combo, 150
+James, 4, true, false, Combo, 150
+James, 5, true, false, Combo, 150
+James, 6, true, false, Combo, 150
+James, 7, true, false, Combo, 150
+James, 8, false, true, Combo, 150
+James, 9, true, false, Combo, 175
+James, 10, false, false, Combo, 175
+James, 1, true, false, Combo, 125
+James, 2, true, false, Combo, 125
+James, 3, false, true, Combo, 125
+James, 4, true, true, Combo, 150
+James, 5, false, false, Combo, 150
+James, 6, false, false, Combo, 175
+James, 7, true, true, Combo, 200
+James, 8, true, false, Combo, 200
+James, 9, false, false, Combo, 200
+James, 10, true, false, Combo, 225
+James, 1, false, true, Combo, 125
+James, 2, false, false, Combo, 150
+James, 3, true, true, Combo, 175
+James, 4, true, false, Combo, 175
+James, 5, false, true, Combo, 175
+James, 6, false, false, Combo, 200
+James, 7, true, false, Combo, 225
+James, 8, true, true, Combo, 225
+James, 9, true, false, Combo, 225
+James, 10, false, true, Combo, 225
+alex, 1, true, true, Color Only, 125
+alex, 2, true, true, Color Only, 125
+alex, 3, true, false, Color Only, 125
+alex, 4, true, false, Color Only, 125
+alex, 5, true, false, Color Only, 125
+alex, 6, true, true, Color Only, 125
+alex, 7, true, false, Color Only, 125
+alex, 8, true, true, Color Only, 125
+alex, 9, true, true, Color Only, 125
+alex, 10, true, false, Color Only, 125
+alex, 1, true, true, Color Only, 125
+alex, 2, true, true, Color Only, 125
+alex, 3, true, true, Color Only, 125
+alex, 4, true, true, Color Only, 125
+alex, 5, true, false, Color Only, 125
+alex, 6, true, true, Color Only, 125
+alex, 7, true, true, Color Only, 125
+alex, 8, true, true, Color Only, 125
+alex, 9, true, true, Color Only, 125
+alex, 10, true, true, Color Only, 125
+alex, 1, true, true, Color Only, 125
+alex, 2, true, false, Color Only, 125
+alex, 3, true, true, Color Only, 125
+alex, 4, true, false, Color Only, 125
+alex, 5, true, false, Color Only, 125
+alex, 6, true, true, Color Only, 125
+alex, 7, true, false, Color Only, 125
+alex, 8, true, false, Color Only, 125
+alex, 9, true, false, Color Only, 125
+alex, 10, true, true, Color Only, 125
+alex, 1, true, true, Color Only, 125
+alex, 2, false, true, Color Only, 125
+alex, 3, true, false, Color Only, 150
+alex, 4, true, true, Color Only, 150
+alex, 5, true, true, Color Only, 150
+alex, 6, true, false, Color Only, 150
+alex, 7, true, false, Color Only, 150
+alex, 8, true, false, Color Only, 150
+alex, 9, true, true, Color Only, 150
+alex, 10, true, true, Color Only, 150
+alex, 1, true, true, Color Only, 125
+alex, 2, true, false, Color Only, 125
+alex, 3, true, false, Color Only, 125
+alex, 4, true, true, Color Only, 125
+alex, 5, true, true, Color Only, 125
+alex, 6, true, true, Color Only, 125
+alex, 7, true, false, Color Only, 125
+alex, 8, true, false, Color Only, 125
+alex, 9, true, true, Color Only, 125
+alex, 10, false, true, Color Only, 125
+alex, 1, true, true, Shape Only, 125
+alex, 2, true, false, Shape Only, 125
+alex, 3, true, true, Shape Only, 125
+alex, 4, true, true, Shape Only, 125
+alex, 5, true, false, Shape Only, 125
+alex, 6, true, false, Shape Only, 125
+alex, 7, true, false, Shape Only, 125
+alex, 8, true, true, Shape Only, 125
+alex, 9, false, true, Shape Only, 125
+alex, 10, true, false, Shape Only, 150
+alex, 1, true, true, Shape Only, 125
+alex, 2, true, false, Shape Only, 125
+alex, 3, true, false, Shape Only, 125
+alex, 4, true, false, Shape Only, 125
+alex, 5, true, true, Shape Only, 125
+alex, 6, true, false, Shape Only, 125
+alex, 7, true, false, Shape Only, 125
+alex, 8, true, true, Shape Only, 125
+alex, 9, true, false, Shape Only, 125
+alex, 10, true, false, Shape Only, 125
+alex, 1, false, true, Shape Only, 125
+alex, 2, true, false, Shape Only, 150
+alex, 3, true, true, Shape Only, 150
+alex, 4, true, false, Shape Only, 150
+alex, 5, true, true, Shape Only, 150
+alex, 6, true, true, Shape Only, 150
+alex, 7, true, false, Shape Only, 150
+alex, 8, true, true, Shape Only, 150
+alex, 9, true, true, Shape Only, 150
+alex, 10, true, true, Shape Only, 150
+alex, 1, true, false, Shape Only, 125
+alex, 2, true, false, Shape Only, 125
+alex, 3, true, true, Shape Only, 125
+alex, 4, true, true, Shape Only, 125
+alex, 5, true, false, Shape Only, 125
+alex, 6, true, true, Shape Only, 125
+alex, 7, true, false, Shape Only, 125
+alex, 8, true, false, Shape Only, 125
+alex, 9, true, true, Shape Only, 125
+alex, 10, true, false, Shape Only, 125
+alex, 1, true, false, Shape Only, 125
+alex, 2, true, false, Shape Only, 125
+alex, 3, true, true, Shape Only, 125
+alex, 4, true, false, Shape Only, 125
+alex, 5, true, false, Shape Only, 125
+alex, 6, false, true, Shape Only, 125
+alex, 7, true, false, Shape Only, 150
+alex, 8, true, true, Shape Only, 150
+alex, 9, true, true, Shape Only, 150
+alex, 10, true, true, Shape Only, 150
+alex, 1, false, true, Combo, 125
+alex, 2, false, true, Combo, 150
+alex, 3, true, true, Combo, 175
+alex, 4, true, true, Combo, 175
+alex, 5, true, false, Combo, 175
+alex, 6, true, false, Combo, 175
+alex, 7, true, false, Combo, 175
+alex, 8, true, true, Combo, 175
+alex, 9, true, false, Combo, 175
+alex, 10, true, true, Combo, 175
+alex, 1, true, false, Combo, 125
+alex, 2, false, true, Combo, 125
+alex, 3, false, false, Combo, 150
+alex, 4, false, false, Combo, 175
+alex, 5, false, false, Combo, 200
+alex, 6, true, false, Combo, 225
+alex, 7, false, false, Combo, 225
+alex, 8, false, false, Combo, 250
+alex, 9, true, true, Combo, 275
+alex, 10, true, false, Combo, 275
+alex, 1, true, false, Combo, 125
+alex, 2, true, true, Combo, 125
+alex, 3, true, true, Combo, 125
+alex, 4, true, false, Combo, 125
+alex, 5, true, true, Combo, 125
+alex, 6, false, true, Combo, 125
+alex, 7, false, false, Combo, 150
+alex, 8, false, true, Combo, 175
+alex, 9, true, false, Combo, 200
+alex, 10, true, false, Combo, 200
+alex, 1, true, true, Combo, 125
+alex, 2, false, true, Combo, 125
+alex, 3, true, false, Combo, 150
+alex, 4, false, false, Combo, 150
+alex, 5, true, true, Combo, 175
+alex, 6, false, true, Combo, 175
+alex, 7, false, true, Combo, 200
+alex, 8, true, false, Combo, 225
+alex, 9, false, false, Combo, 225
+alex, 10, false, false, Combo, 250
+alex, 1, true, true, Combo, 125
+alex, 2, true, true, Combo, 125
+alex, 3, true, false, Combo, 125
+alex, 4, true, false, Combo, 125
+alex, 5, true, false, Combo, 125
+alex, 6, true, false, Combo, 125
+alex, 7, false, false, Combo, 125
+alex, 8, false, false, Combo, 150
+alex, 9, false, true, Combo, 175
+alex, 10, false, true, Combo, 200
